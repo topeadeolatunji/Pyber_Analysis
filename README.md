@@ -28,6 +28,12 @@ Comparing all city types in a box plot gives a better understanding about the di
 
 ![image](https://user-images.githubusercontent.com/104689265/172967581-e4dbfc2f-2369-49cf-82e1-d8491d405ca2.png)
 
+![image](https://user-images.githubusercontent.com/104689265/172968298-7bf4c8d4-fbc5-455d-afae-9db30bbd43cb.png)
+
+Putting together all of the above. Below is a table summary that depicts city type including total rides, fares and driver counts. The average fare and average per driver tells a lot about the overall contrast between rural and urban city types. Average fare and fare per driver is lower in urban cities because, rides are likely shorter distances and therefore less costly compares to rural areas with longer distance rides. The conclusion to be made is that ride-sharing is best scaled in urban cities, thus making fares less costly.
+
+![image](https://user-images.githubusercontent.com/104689265/172968895-079d2bd0-8d9c-4b2c-a660-b802134aa75a.png)
+
 
 ## Summary
 
