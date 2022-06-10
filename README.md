@@ -1,7 +1,7 @@
-# Pyber_Analysis
+# Pyber: Ride-sharing Application
 
 ## Overview of the Analysis
-The report is looking at ride-sharing data across three different city types (urban, suburban and rural), and understanding the disparities in ride and driver counts, total fares for each ride in a specific city that falls under the city types (urban, suburban and rural) category, over a period of 5 months, from January to May of 2019. The CEO, V. Isualise
+The report is looking at ride-sharing data across three different city types (urban, suburban and rural), and understanding the disparities in ride and driver counts, total fares for each ride in a specific city that falls under the city types (urban, suburban and rural) category, over a period of 5 months, from January to May of 2019. As the Data Analyst for Pyber, I will be utilising Matplotlib to help understand the relationship among city types. I have gathered data on rides, fares, drivers, etc. The ultimate goal is to understand patterns, trends, correlations and visually plot relatioship among the relevant variables such as fares, rides, drivers in city types, and provive insightful recommendation about my findings.
 
 
 ## Results
@@ -32,8 +32,13 @@ Comparing all city types in a box plot gives a better understanding about the di
 
 Putting together all of the above. Below is a table summary that depicts city type including total rides, fares and driver counts. The average fare and average per driver tells a lot about the overall contrast between rural and urban city types. Average fare and fare per driver is lower in urban cities because, rides are likely shorter distances and therefore less costly compares to rural areas with longer distance rides. The conclusion to be made is that ride-sharing is best scaled in urban cities, thus making fares less costly.
 
-![image](https://user-images.githubusercontent.com/104689265/172968895-079d2bd0-8d9c-4b2c-a660-b802134aa75a.png)
-
-
 ## Summary
 
+![image](https://user-images.githubusercontent.com/104689265/172968895-079d2bd0-8d9c-4b2c-a660-b802134aa75a.png)
+
+Putting together all of the above. Above is a table summary that depicts city type including total rides, fares and driver counts. The average fare and average per driver tells a lot about the overall contrast between rural and urban city types. Average fare and fare per driver is lower in urban cities because, rides are likely shorter distances and therefore less costly compares to rural areas with longer distance rides. Given the above, here are 3 actionable ideas as part of business recommendation:
+
+        1. Ride-sharing is best scaled in urban cities, where the rides and number of drivers are dominant. We should look to continue to focus effort in urban       cities.
+        2. Continue to gain market share from competition such as taxis, by offering competitive rates to riders and incentivising drivers by offering better pay
+        
+        3. Ensure easier access among city types such as travel to and from urban, suburban and rural, making it easier for riders to come to urban cities from the other city types during festivals and events. This will ensure more profitable rides and also increase drivers outside of urban cities.
